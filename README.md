@@ -121,27 +121,7 @@ chmod +x KFScanner-1.0.0-cli-*
 ./KFScanner-1.0.0-cli-linux-amd64
 ```
 
-### Android
 
-| Release asset | Device |
-|---|---|
-| `KFScanner-1.0.0-android-universal.apk` | Recommended sideload build for all supported ABIs |
-| `KFScanner-1.0.0-android-arm64-v8a.apk` | Most current 64-bit Android devices |
-| `KFScanner-1.0.0-android-armeabi-v7a.apk` | Older 32-bit ARM devices |
-
-Android requires API 24 or newer. If you sideload an APK, Android may ask you to permit installation from the app that opened the file.
-
-## Quick start
-
-### Desktop or Android
-
-1. Open **Scan** and keep the defaults for a first pass.
-2. Add a VLESS, Trojan, or VMess URL if you want proxy-aware probing and client exports.
-3. Enable **Neighbor scan** only if you want the wider search.
-4. Start discovery and switch to **Results** whenever you want; the scan continues in the background.
-5. Use **Copy green** or **Copy top 20** at any time.
-6. Stop the scan when the shortlist is sufficient, then choose **Speed test green results**.
-7. Open **Export** to copy raw endpoints or generate client configurations.
 
 ### CLI / TUI
 
