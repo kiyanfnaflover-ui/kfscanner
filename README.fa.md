@@ -15,13 +15,7 @@
   <a href="https://github.com/K_F_/KFScanner/issues">گزارش مشکل</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/K_F_/KFScanner/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/K_F_/KFScanner?style=flat-square&logo=github&color=f5c542"></a>
-  <a href="https://github.com/K_F_/KFScanner/releases"><img alt="Total Downloads" src="https://img.shields.io/github/downloads/K_F_/KFScanner/total?style=flat-square&logo=github&color=25b99a"></a>
-  <a href="https://github.com/K_F_/KFScanner/forks"><img alt="GitHub Forks" src="https://img.shields.io/github/forks/K_F_/KFScanner?style=flat-square&logo=github&color=5f76e8"></a>
-  <a href="https://github.com/K_F_/KFScanner/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/K_F_/KFScanner?style=flat-square"></a>
-  <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/badge/license-MIT-5f76e8?style=flat-square"></a>
-</p>
+
 
 ---
 
