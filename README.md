@@ -200,14 +200,7 @@ cd android
 ./gradlew.bat testDebugUnitTest lintRelease assembleRelease
 ```
 
-Release APK signing uses these GitHub repository secrets:
 
-- `ANDROID_KEYSTORE_BASE64`
-- `ANDROID_KEYSTORE_PASSWORD`
-- `ANDROID_KEY_ALIAS`
-- `ANDROID_KEY_PASSWORD`
-
-When they are absent, CI creates an ephemeral signing key for test artifacts. Those builds cannot update an application signed with a permanent production key.
 
 ## Release automation
 
